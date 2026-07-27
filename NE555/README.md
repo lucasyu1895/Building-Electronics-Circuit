@@ -4,7 +4,7 @@ By changing the resistor and capacitor values, the blinking frequency can be adj
 We can also caculate the frequency(hz) of the LED by using a formula. <br>
 
 <img width="179" height="69" alt="截屏2026-07-27 上午11 54 55" src="https://github.com/user-attachments/assets/6ee52ac3-0039-4fe7-821f-34a0b09b58f1" />
-R means resistor. F is frequency. C is capacitor. 1.44 is the constant.<br>
+R means resistor. F is frequency(hz). C is capacitor. 1.44 is the constant.<br>
 1 Hz = 1 blink cycle per second <br>
 5 Hz = 5 blink cycles per second <br>
 10 Hz = 10 blink cycles per second <br>
